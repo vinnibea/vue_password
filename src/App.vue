@@ -11,7 +11,6 @@
         'password-strong': isPasswordStrong,
       }"
     >
-      {{ text }}
     </div>
   
     <div
